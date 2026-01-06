@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/PASTE_BANNER_ANIME.gif" width="100%" />
 </p>
 
-<h1 align="center">Let's create something awesome!</h1>
+<h1 align="center">Moving forward, even in small steps!</h1>
 
 <p align="center">
   🎮 Unity Game Developer • 💻 Programmer • 🌸 Anime Enthusiast
