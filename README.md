@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/h1s0vfq7BfMAAAAd/majo-no-tabitabi-the-journey-of-elaina.gif" width="600"/>
+  <img src="https://media1.tenor.com/m/h1s0vfq7BfMAAAAd/majo-no-tabitabi-the-journey-of-elaina.gif" width="800"/>
 </p>
 
 
