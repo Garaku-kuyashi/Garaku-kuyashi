@@ -29,8 +29,8 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garaku-kuyashi)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## 📊 GitHub Stats & Streak
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garaku-kuyashi)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
