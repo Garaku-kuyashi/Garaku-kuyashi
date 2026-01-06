@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/PASTE_BANNER_ANIME.gif" width="100%" />
+</p>
 
-<!--
-**Garaku-kuyashi/Garaku-kuyashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Let's create something awesome!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎮 Unity Game Developer • 💻 Programmer • 🌸 Anime Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media1.tenor.com/m/h1s0vfq7BfMAAAAd/majo-no-tabitabi-the-journey-of-elaina.gif" width="600"/>
+</p>
+
+
+---
+
+## 🌟 About Me
+- 🔭 Currently learning **Game Development**
+- 🎮 Love **Unity & C#**
+- 🌙 Inspired by **Anime & Games**
+
+---
+
+## 🌻 My Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,html,css,js,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+</p>
